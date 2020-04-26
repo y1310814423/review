@@ -18,7 +18,16 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
-```
+```.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### vue-cli网址
+See [Configuration Reference](https://cli.vuejs.org/zh/guide/)
+
+### vue-router网址
+See [Configuration Reference](https://router.vuejs.org/zh/)
+
+### vue-vuex网址
+See [Configuration Reference](https://vuex.vuejs.org/zh/guide/)
+
+### view-ui网址
+See [Configuration Reference](https://www.iviewui.com/docs/introduce)
